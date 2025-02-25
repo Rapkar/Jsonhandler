@@ -1,2 +1,0 @@
-# inventory
-golang project inventory
